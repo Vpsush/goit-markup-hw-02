@@ -76,3 +76,25 @@ flex: none;
 order: 0;
 flex-grow: 0;
 }
+.conclution{
+    position: absolute;
+width: 264px;
+height: 72px;
+left: 156px;
+top: 1904px;
+
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.02em;
+
+/* CLOUD */
+
+color: #F4F4FD;
+}
