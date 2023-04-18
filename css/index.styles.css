@@ -157,23 +157,37 @@ order: 1;
 flex-grow: 0;
 }
 .products{
-    box-sizing: border-box;
+position: absolute;
+width: 323px;
+height: 40px;
+left: 559px;
+top: 1016px;
 
-width: 360px;
-height: 300px;
+/* Header 2 */
 
-background: url(2368.jpg);
-/* CORNFLOWER */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+/* identical to box height, or 111% */
 
-border: 1px solid #E7E9FC;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
 
-/* Inside auto layout */
+/* NAVY BLUE */
 
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.employee{  
+color: #2E2F42;
+.employee{ position: absolute;
+width: 1440px;
+height: 732px;
+left: 0px;
+top: 1548px;
+
+/* CLOUD */
+
+background: #F4F4FD; 
 }
 .whom{
     width: 134px;
