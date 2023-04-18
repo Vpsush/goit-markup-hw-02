@@ -1,7 +1,8 @@
 .main{
     background-color:#FFFFFF;
     font-family: 'Roboto';
-    color: #434455
+    color: #434455;
+    font-family:"Roboto", sans-serif
 }
 .logo { width: 71px;
 height: 21px;
@@ -32,5 +33,51 @@ order: 1;
 flex-grow: 0;   
 }
 .achivement{
+    width: 264px;
+height: 72px;
 
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.02em;
+
+/* SLATE */
+
+color: #434455;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.head{
+    line-height: 1.17
+}
+.products{
+    box-sizing: border-box;
+
+width: 360px;
+height: 300px;
+
+background: url(2368.jpg);
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.employee{
+    
 }
