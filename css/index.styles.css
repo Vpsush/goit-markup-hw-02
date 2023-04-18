@@ -180,3 +180,25 @@ letter-spacing: 0.02em;
 
 color: #F4F4FD;
 }
+.connection{
+    position: absolute;
+width: 151px;
+height: 24px;
+left: 1133px;
+top: 24px;
+
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.02em;
+
+/* SLATE */
+
+color: #434455;
+}
