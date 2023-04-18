@@ -178,7 +178,7 @@ text-transform: capitalize;
 
 /* NAVY BLUE */
 
-color: #2E2F42;
+color: #2E2F42;}
 .employee{ position: absolute;
 width: 1440px;
 height: 732px;
@@ -242,6 +242,9 @@ color: #434455;
 flex: none;
 order: 1;
 flex-grow: 0;
+}
+.footer{
+    
 }
 .conclusion{
     position: absolute;
