@@ -60,6 +60,30 @@ flex-grow: 0;
 }
 .head{
     line-height: 1.17
+    width: 48px;
+height: 24px;
+
+/* Body Medium */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.02em;
+
+/* NAVY BLUE */
+
+color: #2E2F42;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 .products{
     box-sizing: border-box;
