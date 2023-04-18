@@ -21,9 +21,6 @@ align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 
-/* NAVY BLUE */
-
-color: #2E2F42;
 
 
 /* Inside auto layout */
@@ -32,32 +29,7 @@ flex: none;
 order: 1;
 flex-grow: 0;   
 }
-.achivement{
-    width: 264px;
-height: 72px;
 
-/* Body */
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* or 150% */
-
-letter-spacing: 0.02em;
-
-/* SLATE */
-
-color: #434455;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
-}
 .information{
     line-height: 1.17
     width: 48px;
@@ -83,6 +55,105 @@ color: #2E2F42;
 
 flex: none;
 order: 0;
+flex-grow: 0;
+}
+.connection{
+    position: absolute;
+width: 151px;
+height: 24px;
+left: 1133px;
+top: 24px;
+
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.02em;
+
+/* SLATE */
+
+color: #434455;
+}
+.title{
+    position: absolute;
+width: 496px;
+height: 120px;
+left: 472px;
+top: 260px;
+
+/* Header 1 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+/* or 107% */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+/* WHITE */
+
+color: #FFFFFF;
+}
+.button{
+    width: 105px;
+height: 24px;
+
+/* Button Text */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* WHITE */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.achivement{
+    width: 264px;
+height: 72px;
+
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.02em;
+
+/* SLATE */
+
+color: #434455;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
 flex-grow: 0;
 }
 .products{
@@ -179,26 +250,4 @@ letter-spacing: 0.02em;
 /* CLOUD */
 
 color: #F4F4FD;
-}
-.connection{
-    position: absolute;
-width: 151px;
-height: 24px;
-left: 1133px;
-top: 24px;
-
-/* Body */
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height, or 150% */
-
-letter-spacing: 0.02em;
-
-/* SLATE */
-
-color: #434455;
 }
