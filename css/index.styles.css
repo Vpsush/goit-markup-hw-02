@@ -4,6 +4,9 @@
     color: #434455;
     font-family:"Roboto", sans-serif
 }
+.list{
+    list-style: none
+}
 .logo { width: 71px;
 height: 21px;
 
@@ -259,7 +262,9 @@ text-transform: capitalize;
 
 /* NAVY BLUE */
 
-color: #2E2F42;}
+color: #2E2F42;
+line-height: 1.11
+}
 .employee{ position: absolute;
 width: 1440px;
 height: 732px;
