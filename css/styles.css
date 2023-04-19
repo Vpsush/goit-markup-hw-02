@@ -1,18 +1,21 @@
 body{
-    font-family: "Roboto";
+    font-family: "Roboto",sans-serif;
     color: #434455 
+  
 }
 .list{
-    list-style: none
+    list-style: none;
+    text-decoration: none
 }
 .logo { width: 44px;
     height: 21px;
     
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
+    line-height: 1.17;
     /* identical to box height, or 117% */
     
     display: flex;
@@ -33,6 +36,9 @@ body{
 }
 .web_name{
     color:#2e2f42
+}
+.connection{
+    font-style: normal
 }
 .names{
     width: 172px;
