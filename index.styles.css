@@ -1,37 +1,4 @@
-.main{
-    background-color:#FFFFFF;
-    font-family: 'Roboto';
-    color: #434455;
-    font-family:"Roboto", sans-serif
-}
-.list{
-    list-style: none
-}
-.logo { width: 71px;
-height: 21px;
-
-font-family: "Raleway", sans-serif;
-line-height: 1.17;
-color:#4d5ae5;
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-
-/* identical to box height, or 117% */
-
-display: flex;
-align-items: center;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;   
-}
+/* 
 .web_name{
     width: 71px;
     height: 21px;
@@ -357,4 +324,4 @@ letter-spacing: 0.02em;
 /* CLOUD */
 
 color: #F4F4FD;
-}
+} */
