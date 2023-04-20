@@ -1,7 +1,7 @@
 /* скидання установок браузера */
 .
 /* portfolio */
-.body{
+body{
     font-family: "Roboto",sans-serif;
     color: #434455 
   
@@ -59,6 +59,12 @@
     order: 0;
     flex-grow: 0;
 } 
+.list{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 .web_name{
     color:#2e2f42
 }
