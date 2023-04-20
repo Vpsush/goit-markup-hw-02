@@ -132,12 +132,12 @@ flex-grow: 0;
     color:#2e2f42;
     text-decoration: none;
 }
-.link1:hover{
+/* .link1:hover{
     color: #404bbf;
 }
 .link1:focus{
-    color: #404bbf;
-}
+    color: #404bbf; */
+/* } */
 .conclution{
     position: absolute;
 width: 264px;
@@ -160,7 +160,10 @@ letter-spacing: 0.02em;
 
 color: #F4F4FD;
 }
-
+.footer-portfolio{
+    background-color:#2e2f42;
+    
+}
 /* index */
 :root{
 
