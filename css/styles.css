@@ -13,8 +13,23 @@ body{
 .section-buttons{
     background-color:#2e2f42;  
 }
-.list-button{
-    
+.button{
+    font-family: "Roboto";
+    ont-weight: 500;
+    font-size: 16px;
+    ine-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+.button:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+.button:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
 }
 .logo { width: 44px;
     height: 21px;
