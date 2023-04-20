@@ -72,7 +72,8 @@
     color:#2e2f42
 }
 .connection{
-    font-style: normal
+    font-style: normal;
+    color: #434455;
 }
 .names{
     width: 172px;
