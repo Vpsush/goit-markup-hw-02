@@ -162,7 +162,7 @@ color: #F4F4FD;
 }
 .footer-portfolio{
     background-color:#2e2f42;
-    
+
 }
 /* index */
 :root{
@@ -171,10 +171,10 @@ color: #F4F4FD;
 .main{
     background-color:#FFFFFF;
     color: #434455;
-    font-family:"Roboto", sans-serif
+    font-family:"Roboto", sans-serif;
 }
 .list{
-    list-style: none
+    list-style: none;
 }
 .logo { width: 71px;
 height: 21px;
@@ -436,7 +436,7 @@ color: #2E2F42;
 line-height: 1.11
 }
 .photo{
-    background-color: #FFFFFF 
+    background-color: #FFFFFF ;
 }
 .employee{ position: absolute;
 width: 1440px;
@@ -503,7 +503,7 @@ order: 1;
 flex-grow: 0;
 }
 .footer{
-    background-color:#2e2f42  
+    background-color:#2e2f42 ; 
 }
 .conclusion{
     position: absolute;
