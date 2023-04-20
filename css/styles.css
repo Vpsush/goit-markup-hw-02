@@ -13,7 +13,7 @@
 .section-buttons{
     background-color:#2e2f42;  
 }
-.button{
+.button1{
     font-family: "Roboto";
     ont-weight: 500;
     font-size: 16px;
@@ -288,7 +288,7 @@ letter-spacing: 0.02em;
 
 color: #FFFFFF;
 }
-.button1{
+.button{
     width: 105px;
 height: 24px;
 
