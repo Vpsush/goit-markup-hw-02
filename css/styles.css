@@ -59,6 +59,9 @@
     order: 0;
     flex-grow: 0;
 } 
+.link{
+    text-decoration: none;
+}
 .list{
     font-weight: 500;
     line-height: 1.5;
