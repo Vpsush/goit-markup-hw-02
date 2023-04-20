@@ -31,7 +31,8 @@ body{
     color: #FFFFFF;
     background-color: #404BBF;
 }
-.logo { width: 44px;
+
+/* .logo { width: 44px;
     height: 21px;
     
     font-family: 'Raleway',sans-serif;
@@ -42,22 +43,22 @@ body{
     line-height: 1.17;
     /* identical to box height, or 117% */
     
-    display: flex;
+    /* display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
     /* IRIS */
     
-    color: #4D5AE5;
+    /* color: #4D5AE5;
     
     
     /* Inside auto layout */
-    
+/*     
     flex: none;
     order: 0;
     flex-grow: 0;
-}
+} */ 
 .web_name{
     color:#2e2f42
 }
@@ -115,7 +116,8 @@ flex-grow: 0;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#2e2f42
+    color:#2e2f42;
+    text-decoration: none
 }
 .conclution{
     position: absolute;
