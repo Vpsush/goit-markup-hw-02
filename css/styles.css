@@ -13,7 +13,7 @@
 .section-buttons{
     background-color:#2e2f42;  
 }
-.button1{
+/* .button1{
     font-family: "Roboto";
     ont-weight: 500;
     font-size: 16px;
@@ -22,7 +22,7 @@
     color: #4d5ae5;
     background-color: #F4F4FD;
     cursor: pointer;
-}
+} */
 .button:hover{
     color: #FFFFFF;
     background-color: #404BBF;
