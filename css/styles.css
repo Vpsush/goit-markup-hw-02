@@ -190,6 +190,8 @@ font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07 ;
+text-align: center;
+text-align: center;
 color: #ffffff ;
 }
 .button{
@@ -205,6 +207,10 @@ letter-spacing: 0.04em;
 color: #ffffff ;
 background-color: #4D5AE5;
 cursor: pointer;
+}
+.button:focus,
+.button:hover{
+    background-color: #404BBF;
 }
 .achivement{
 
