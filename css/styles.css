@@ -99,7 +99,7 @@ color: #2e2f42;
     color: #4d5ae5;
     background-color:#F4F4FD;
 }
-.btn:hover,
+.btn :hover,
 .btn: :focus{
     color: #FFFFFF;
     background-color: #404BBF;
