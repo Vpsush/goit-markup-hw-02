@@ -71,10 +71,10 @@ line-height: 24px;
     text-decoration: none;
 }
 .nav-link:hover{
-    color: #404bbf
+    color: #404bbf;
 }
 .nav-link:focus{
-    color: #404bbf
+    color: #404bbf;
 }
 .list-information{
     color: #434455;
@@ -163,9 +163,6 @@ letter-spacing: 0.02em;
 /* SLATE */
 
 color: #434455;
-}
-.connection:hover{
-    color: #404bbf; 
 }
 .section1{ 
     color: #2e2f42;
