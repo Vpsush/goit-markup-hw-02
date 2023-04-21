@@ -79,6 +79,15 @@ line-height: 24px;
 .list-information{
     color: #434455;
 }
+.btn{
+    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+}
 .conclution{
 font-family: 'Roboto';
 font-style: normal;
