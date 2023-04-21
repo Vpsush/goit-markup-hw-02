@@ -76,6 +76,9 @@ line-height: 24px;
 .nav-link:focus{
     color: #404bbf
 }
+.list-information{
+    color: #434455;
+}
 .conclution{
 font-family: 'Roboto';
 font-style: normal;
