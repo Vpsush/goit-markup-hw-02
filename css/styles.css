@@ -81,6 +81,12 @@ color: #2e2f42;
 .list-information{
     color: #434455;
 }
+.list-information :hover{
+    color: #404bbf;
+}
+.list-information :focus{
+    color: #404bbf;
+}
 .btn{
     font-family: "Roboto", sans-serif;
        font-style: normal;
@@ -174,27 +180,20 @@ color: #434455;
 }
 .section1{ 
     color: #2e2f42;
-}
+background-color: #2e2f42;}
 .main_title{
-    position: absolute;
-width: 496px;
-height: 120px;
-left: 472px;
-top: 260px;
-
-/* Header 1 */
-
+  
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 60px;
-/* or 107% */
+
 
 text-align: center;
 letter-spacing: 0.02em;
 
-/* WHITE */
+line-height: 1.07
 
 color: #FFFFFF;
 }
