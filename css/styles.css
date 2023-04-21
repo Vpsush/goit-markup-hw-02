@@ -81,7 +81,8 @@ color: #2e2f42;
 .list-information{
     color: #434455;
 }
-.list-information :hover{
+.list-information:hover,
+.link:hover{
     color: #404bbf;
 }
 .list-information :focus{
@@ -93,6 +94,7 @@ color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    cursor: pointer;
 
 }
 .conclution{
@@ -158,10 +160,9 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
-.information:hover{
-    color: #404bbf ;
-}
-.information:focus{
+.information:hover,
+.information:focus
+{
     color: #404bbf ;
 }
 .connection{
@@ -198,10 +199,7 @@ line-height: 1.07
 color: #FFFFFF;
 }
 .button{
-    width: 105px;
-height: 24px;
 
-/* Button Text */
 
 font-family: 'Roboto',sans-serif;
 font-style: normal;
@@ -212,6 +210,7 @@ text-align: center;
 letter-spacing: 0.04em;
 color: #ffffff ;
 background-color: #4D5AE5;
+cursor: pointer;
 }
 .achivement{
 
