@@ -161,20 +161,15 @@ color:#2e2f42;
 .list-information-connection{
     color:  #434455;
 }
-.connection{
+/* .connection{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* identical to box height, or 150% */
-
 letter-spacing: 0.02em;
-
-/* SLATE */
-
 color: #434455;
-}
+} */
 .main-section{ 
     color: #2e2f42;
 background-color: #2e2f42;
