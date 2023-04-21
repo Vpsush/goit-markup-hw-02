@@ -1,5 +1,5 @@
 /* скидання установок браузера */
-.link{
+.list{
     list-style: none;
 }
 .link{
@@ -54,14 +54,14 @@
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;}
+line-height: 24px;
+}
 .task{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;}
-
-
+    color: #434455;
+}
 .nav-link{
     font-weight: 500;
     font-size: 16px;
