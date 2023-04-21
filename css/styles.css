@@ -181,22 +181,16 @@ color: #434455;
 }
 .main-section{ 
     color: #2e2f42;
-background-color: #2e2f42;}
+background-color: #2e2f42;
+}
 .main-title{
   
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
-line-height: 60px;
-
-
-text-align: center;
-letter-spacing: 0.02em;
-
-line-height: 1.07
-
-color: #FFFFFF;
+line-height: 1.07 ;
+color: #ffffff ;
 }
 .button{
 
