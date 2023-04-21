@@ -164,6 +164,9 @@ letter-spacing: 0.02em;
 
 color: #434455;
 }
+.connection:hover{
+    color: #404bbf; 
+}
 .section1{ 
     color: #2e2f42;
 }
