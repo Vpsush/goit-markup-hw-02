@@ -15,11 +15,11 @@
 .section-buttons{
     background-color:#2e2f42;  
 }
-.button:hover{
+.section-button:hover{
     color: #FFFFFF;
     background-color: #404BBF;
 }
-.button:focus{
+.section-button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
 }
@@ -203,18 +203,15 @@ height: 24px;
 
 /* Button Text */
 
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
-font-size: 56px;
-line-height: 1.7;
+font-size: 16px;
+line-height: 1.5;
 text-align: center;
-letter-spacing: 0.02em;
-
-color: #FFFFFF;
-
-
-
+letter-spacing: 0.04em;
+color: #ffffff ;
+background-color: #4D5AE5;
 }
 .achivement{
 
