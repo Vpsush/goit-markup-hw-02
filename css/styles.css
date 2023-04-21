@@ -50,11 +50,13 @@
     color: #434455;
 }
 .names{
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .task{
     font-size: 16px;
