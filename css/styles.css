@@ -1,28 +1,21 @@
 /* скидання установок браузера */
-.
+.link{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
 /* portfolio */
 *body{
     font-family: "Roboto",sans-serif;
     color: #434455 ;
   
 }
-/* .list-information{
-    list-style: none;
-    text-decoration: none
-} */
+
 .section-buttons{
     background-color:#2e2f42;  
 }
-/* .button1{
-    font-family: "Roboto";
-    ont-weight: 500;
-    font-size: 16px;
-    ine-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
-    cursor: pointer;
-} */
+
 .button:hover{
     color: #FFFFFF;
     background-color: #404BBF;
@@ -31,7 +24,6 @@
     color: #FFFFFF;
     background-color: #404BBF;
 }
-
  .logo { width: 44px;
     height: 21px;
     
@@ -41,28 +33,8 @@
     font-size: 18px;
     line-height: 21px;
     line-height: 1.17;
-    /* identical to box height, or 117% */
-    
- display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    
-    /* IRIS */
-    
-     color: #4D5AE5;
-    
-    
-    /* Inside auto layout */
-     
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-} 
-.link{
-    text-decoration: none;
-}
-.list{
+   }
+.menu{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -76,55 +48,19 @@
     color: #434455;
 }
 .names{
-    width: 172px;
-height: 24px;
-
-font-family: 'Roboto';
+  font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;
-
-letter-spacing: 0.02em;
-
-color: #2E2F42;
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
+line-height: 24px;}
 .task{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #434455;}
 
 
-/* Body */
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height, or 150% */
-
-letter-spacing: 0.02em;
-
-/* SLATE */
-
-color: #434455;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
-}
-
-.link1{
+.nav-link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -132,38 +68,22 @@ flex-grow: 0;
     color:#2e2f42;
     text-decoration: none;
 }
-/* .link1:hover{
-    color: #404bbf;
-}
-.link1:focus{
-    color: #404bbf; */
-/* } */
 .conclution{
-    position: absolute;
-width: 264px;
-height: 72px;
-left: 156px;
-top: 1904px;
-
-/* Body */
-
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* or 150% */
-
-letter-spacing: 0.02em;
-
-/* CLOUD */
-
 color: #F4F4FD;
 }
 .footer-portfolio{
     background-color:#2e2f42;
-
 }
+
+
+
+
+
 /* index */
 :root{
 
