@@ -152,6 +152,12 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
+.information:hover{
+    color: #404bbf ;
+}
+.information:focus{
+    color: #404bbf ;
+}
 .connection{
 font-family: 'Roboto';
 font-style: normal;
