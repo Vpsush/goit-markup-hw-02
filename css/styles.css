@@ -97,8 +97,8 @@ color: #434455;
     color: #4d5ae5;
     background-color:#F4F4FD;
 }
-.btn:hover,
-.btn:focus{
+.list-button:hover,
+.list-button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
 }
