@@ -182,8 +182,8 @@ color: #2e2f42;
 .mail-connection{ 
     color:var(--accent-color);
 }
-.mail-connection .link:hover,
-.mail-connection-connection .link:focus
+.list .mail-connection :hover,
+.list .mail-connection:focus
 {
     color: #404bbf;
 }
