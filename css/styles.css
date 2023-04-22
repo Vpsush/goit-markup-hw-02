@@ -16,14 +16,14 @@
 *body{
     font-family: "Roboto",sans-serif;
 }
-.section-buttons{
+/* .section-buttons{
     background-color:#2e2f42;  
-}
-.section-button:hover,
+} */
+/* .section-button:hover,
 .section-button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
-}
+} */
 /* .section-button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
@@ -59,21 +59,7 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.names{
-  font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2e2f42;
-}
-.task{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 .nav-link{
     font-weight: 500;
     font-size: 16px;
