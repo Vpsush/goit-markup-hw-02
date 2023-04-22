@@ -183,15 +183,19 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:#434455;
+color: #2e2f42;
 }
 .information:hover,
 .information:focus{
     color: #404bbf ;
 }
-/* .list-information-connection{
+.list-information-connection{ 
     color:  #434455;
-} */
+}
+.list-information-connection:hover,
+.list-information-connection:focus{
+    color: #404bbf;
+}
 /* .connection{
 font-family: 'Roboto',sans-serif;
 font-style: normal;
@@ -207,7 +211,7 @@ background-color: #2e2f42;
 }
 .main-title{
   
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
@@ -238,7 +242,7 @@ cursor: pointer;
 }
 .achivement{
 
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -249,12 +253,8 @@ color: #434455;
 
 }
 .features{
-    width: 264px;
-height: 24px;
-
-/* Header 3 */
-
-font-family: 'Roboto';
+  
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -269,22 +269,12 @@ color: #2E2F42;
 
 }
 .descuption{
-    width: 264px;
-height: 72px;
-
-/* Body */
-
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* or 150% */
-
 letter-spacing: 0.02em;
-
-/* SLATE */
-
 color: #434455;
 
 }
@@ -320,23 +310,14 @@ top: 1548px;
 background: #F4F4FD; 
 }
 .whom{
-    width: 134px;
-height: 24px;
-
-/* Header 3 */
-
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
-/* identical to box height, or 120% */
 
 text-align: center;
 letter-spacing: 0.02em;
-
-/* NAVY BLUE */
-
 color: #2E2F42;
 
 }
@@ -346,17 +327,15 @@ height: 24px;
 
 /* Body */
 
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* identical to box height, or 150% */
 
 text-align: center;
 letter-spacing: 0.02em;
 
-/* SLATE */
 
 color: #434455;
 }
@@ -375,7 +354,7 @@ top: 2420px;
 
 /* Body */
 
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
