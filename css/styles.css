@@ -57,7 +57,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
-color: #434455;
+color: var(--accent-color);
 }
 .names{
   font-family: 'Roboto',sans-serif;
@@ -193,9 +193,9 @@ color: #2e2f42;
 .information:focus{
     color: #404bbf ;
 }
-.list-information-connection{ 
+/* .list-information-connection{ 
     color:var(--accent-color);
-}
+} */
 .list-information-connection:hover
 .list-information-connection:focus{
     color: #404bbf;
