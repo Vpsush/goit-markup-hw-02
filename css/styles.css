@@ -45,8 +45,13 @@
     color:#f4f4fd;
 }
 .connection{
-    font-style: normal;
-    color: #434455;
+    font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
 }
 .names{
   font-family: 'Roboto',sans-serif;
@@ -106,7 +111,7 @@ color: #2e2f42;
     background-color: #404BBF;
 }
 .names{
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -115,7 +120,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .task{
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -124,7 +129,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .conclution{
-font-family: 'Roboto';
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -162,7 +167,7 @@ font-size: 18px;
     width: 71px;
     height: 21px;
     
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -172,7 +177,7 @@ font-size: 18px;
   
 }
 .information{
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -187,15 +192,15 @@ color:#434455;
 /* .list-information-connection{
     color:  #434455;
 } */
-.connection{
-font-family: 'Roboto';
+/* .connection{
+font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
 color: #434455;
-}
+} */
 .main-section{ 
     color: #2e2f42;
 background-color: #2e2f42;
