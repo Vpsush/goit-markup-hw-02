@@ -182,23 +182,12 @@ color: #2e2f42;
 .mail-connection{ 
     color:var(--accent-color);
 }
-.mail-connection:hover,
-.mail-connection-connection:focus{
+.mail-connection .link:hover,
+.mail-connection-connection .link:focus
+{
     color: #404bbf;
 }
-/* .list-information-connection:hover
-.list-information-connection:focus{
-    color: #404bbf;
-} */
-/* .connection{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
-} */
+
 .main-section{ 
     color: #2e2f42;
 background-color: #2e2f42;
@@ -215,7 +204,6 @@ letter-spacing: 0.02em;
 color: #ffffff ;
 }
 .button{
-
 
 font-family: 'Roboto',sans-serif;
 font-style: normal;
@@ -316,11 +304,6 @@ color: #2E2F42;
 
 }
 .position{
-    width: 128px;
-height: 24px;
-
-/* Body */
-
 font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
@@ -340,24 +323,11 @@ color: #434455;
     color: #f4f4fd ;
 }
 .conclusion{
-    position: absolute;
-width: 264px;
-height: 72px;
-left: 156px;
-top: 2420px;
-
-/* Body */
-
 font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* or 150% */
-
 letter-spacing: 0.02em;
-
-/* CLOUD */
-
 color: #F4F4FD;
 }
