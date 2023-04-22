@@ -171,7 +171,7 @@ font-size: 18px;
     color: #2E2F42;
   
 }
-..list-information-connection{
+..information{
   font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -180,8 +180,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#434455;
 }
-.list.information:hover,
-.list.information:focus{
+.information:hover,
+.information:focus{
     color: #404bbf ;
 }
 /* .list-information-connection{
