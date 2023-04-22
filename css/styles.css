@@ -78,10 +78,6 @@ color: #434455;
 .list-information{
     color: var(--accent-color);
 }
-/* .list-information:hover,
-.link:hover{
-    color: #404bbf;
-} */
 .list-information:hover,
 .list-information:focus{
     color: #404bbf;
@@ -130,6 +126,9 @@ color: #F4F4FD;
 }
 .footer-portfolio{
     background-color:#2e2f42;
+}
+.web-name{
+    color: #f4f4fd;
 }
 
 
