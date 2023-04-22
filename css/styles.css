@@ -75,7 +75,7 @@ color: #434455;
 /* .nav-link:focus{
     color: #404bbf;
 } */
-.list-information-connection{
+.mail{
     color: var(--accent-color);
 }
 .list-information:hover,
@@ -178,9 +178,9 @@ color: #2e2f42;
 .information:focus{
     color: #404bbf ;
 }
-/* .list-information-connection{ 
+.list-information-connection{ 
     color:var(--accent-color);
-} */
+}
 .list-information-connection:hover
 .list-information-connection:focus{
     color: #404bbf;
