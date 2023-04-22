@@ -189,10 +189,10 @@ color: #2e2f42;
 .information:focus{
     color: #404bbf ;
 }
-.list-information-connection{ 
+/* .list-information-connection{ 
     color:  #434455;
-}
-.list-information-connection:hover,
+} */
+.list-information-connection:hover
 .list-information-connection:focus{
     color: #404bbf;
 }
