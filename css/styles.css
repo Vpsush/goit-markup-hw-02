@@ -75,7 +75,7 @@ color: #434455;
 /* .nav-link:focus{
     color: #404bbf;
 } */
-.connection-mail{
+.mail{
     color: var(--accent-color);
 }
 .list-information:hover,
