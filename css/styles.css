@@ -8,21 +8,20 @@
 /* portfolio */
 *body{
     font-family: "Roboto",sans-serif;
-    color: #434455 ;
-  
+    color: #434455 ; 
 }
-
 .section-buttons{
     background-color:#2e2f42;  
 }
-.section-button:hover{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
+.section-button:hover,
 .section-button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
 }
+/* .section-button:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+} */
  .logo { 
     width: 44px;
     height: 21px;
@@ -72,12 +71,13 @@ color: #2e2f42;
     color:#2e2f42;
     text-decoration: none;
 }
-.nav-link:hover{
-    color: #404bbf;
-}
+.nav-link:hover,
 .nav-link:focus{
     color: #404bbf;
 }
+/* .nav-link:focus{
+    color: #404bbf;
+} */
 .list-information{
     color: #434455;
 }
@@ -85,7 +85,8 @@ color: #2e2f42;
 .link:hover{
     color: #404bbf;
 } */
-.list-information :focus{
+.list-information:hover,
+.list-information:focus{
     color: #404bbf;
 }
 .btn{
@@ -99,8 +100,8 @@ color: #2e2f42;
     color: #4d5ae5;
     background-color:#F4F4FD;
 }
-.btn :hover,
-.btn: :focus{
+.btn:hover,
+.btn:focus{
     color: #FFFFFF;
     background-color: #404BBF;
 }
