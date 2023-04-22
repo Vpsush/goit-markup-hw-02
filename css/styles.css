@@ -5,6 +5,12 @@
 .link{
     text-decoration: none;
 }
+:root{
+--accent-color:#434455;
+}
+
+
+
 /* portfolio */
 *body{
     font-family: "Roboto",sans-serif;
@@ -145,9 +151,7 @@ color: #F4F4FD;
 
 
 /* index */
-:root{
 
-}
 .main{
     background-color:#FFFFFF;
     color: #434455;
