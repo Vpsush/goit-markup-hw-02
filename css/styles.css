@@ -170,9 +170,11 @@ text-transform: uppercase
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
+line-height: 24px;
+cursor: pointer;
 letter-spacing: 0.02em;
 color: #2e2f42;
+background-color:#F4F4FD;
 }
 .body-information:hover,
 .body-information:focus
@@ -185,7 +187,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
 }
 .body-mail-connection{
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
