@@ -21,6 +21,7 @@
 .boddy{
     font-family: "Roboto", sans-serif;
     color:var(--accent-color);
+    color: #434455;
 }
  .logo { 
     width: 44px;
@@ -135,11 +136,11 @@ color: #F4F4FD;
 
 /* index */
 
-.body{
+/* .body{
     background-color:#FFFFFF;
     color: #434455;
     font-family:"Roboto", sans-serif;
-}
+} */
 .body-logo { width: 71px;
 height: 21px;
 
