@@ -165,7 +165,7 @@ text-transform: uppercase
     color: #2E2F42;
    
 }
-.body-information{
+/* .body-information{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -177,7 +177,7 @@ text-transform: uppercase
 .body-information:focus
 {
     color: #404bbf ;
-}
+} */
 .body-connection{
     font-style: normal;
     line-height: 1.5;
