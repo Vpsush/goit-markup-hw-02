@@ -19,7 +19,7 @@
 }
 .boddy{
     font-family: "Roboto", sans-serif;
-    var{--accent-color:#434455;}
+    color:var(--accent-color);
 }
  .logo { 
     width: 44px;
@@ -41,7 +41,7 @@
     color: #2e2f42;
 }
 .web-name{
-    color:var(--web-name-color)
+    color:var(--accent-color)
 }
 .connection{
     font-family: 'Roboto',sans-serif;
