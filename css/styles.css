@@ -139,6 +139,8 @@ color:#4d5ae5;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
+letter-spacing: 0.03em;
+text-transform: uppercase
 }
 .body-web-name{
     width: 71px;
@@ -151,8 +153,7 @@ font-size: 18px;
     line-height: 21px;
       
     color: #2E2F42;
-    letter-spacing: 0.03em;
-    text-transform: uppercase
+   
 }
 .body-information{
   font-family: 'Roboto',sans-serif;
