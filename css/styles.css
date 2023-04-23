@@ -137,7 +137,7 @@ color: #F4F4FD;
 
 .body{
     background-color:#FFFFFF;
-    /* color: #434455; */
+    color: #434455;
     font-family:"Roboto", sans-serif;
 }
 .body-logo { width: 71px;
@@ -178,7 +178,7 @@ text-transform: uppercase
 {
     color: #404bbf ;
 } */
-.body-connection{
+/* .body-connection{
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -196,7 +196,7 @@ color: #434455;
 .body-mail-connection:focus{
     color: #404bbf;
     
-}
+} */
 /* .body-mail-connection{ 
     font-style: normal;
     line-height: 1.5;
