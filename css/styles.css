@@ -166,15 +166,12 @@ text-transform: uppercase
    
 }
 .body-information{
-  font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-cursor: pointer;
-letter-spacing: 0.02em;
-color: #2e2f42;
-background-color:#F4F4FD;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    text-decoration: none;
 }
 .body-information:hover,
 .body-information:focus
@@ -198,6 +195,7 @@ color: #434455;
 .body-mail-connection:hover,
 .body-mail-connection:focus{
     color: #404bbf;
+    
 }
 /* .body-mail-connection{ 
     font-style: normal;
