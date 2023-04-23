@@ -17,18 +17,7 @@
 *body{
     font-family: "Roboto",sans-serif;
 }
-/* .section-buttons{
-    background-color:#2e2f42;  
-} */
-/* .section-button:hover,
-.section-button:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-} */
-/* .section-button:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-} */
+
  .logo { 
     width: 44px;
     height: 21px;
@@ -136,12 +125,12 @@ color: #F4F4FD;
 
 /* index */
 
-.main{
+.body{
     background-color:#FFFFFF;
     color: #434455;
     font-family:"Roboto", sans-serif;
 }
-.logo { width: 71px;
+.body-logo { width: 71px;
 height: 21px;
 
 font-family: "Raleway", sans-serif;
@@ -178,7 +167,7 @@ color: #2e2f42;
 {
     color: #404bbf ;
 }
-.mail-connection{ 
+.body-mail-connection{ 
     color:var(--accent-color);
 }
 .mail-connection:hover,
