@@ -169,6 +169,11 @@ color: #2e2f42;
 {
     color: #404bbf ;
 }
+.body-connection{
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .body-mail-connection{ 
     color:var(--accent-color);
 }
