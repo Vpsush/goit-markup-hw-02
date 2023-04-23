@@ -195,11 +195,11 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-/* .body-mail-connection:hover,
-.body-mail-connection:focus{
+.mail-index:hover, 
+.mail-index:focus{
     color: #404bbf;
     
-} */ */
+} 
 /* .body-mail-connection{ 
     font-style: normal;
     line-height: 1.5;
