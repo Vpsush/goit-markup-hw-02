@@ -9,6 +9,7 @@
 --accent-color:#434455;
 --web-name-color:#2e2f42;
 --hover-back-graund:background-color: #404BBF;
+--logo-footer-portfolio: #4d5ae5 ;
 }
 
 
@@ -33,6 +34,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: var(--logo-footer-portfolio);
    }
 .menu{
     font-weight: 500;
@@ -41,7 +43,7 @@
     color: #2e2f42;
 }
 .web-name{
-    color:var(--accent-color)
+    color:var(--web-name-color)
 }
 .connection{
     font-family: 'Roboto',sans-serif;
