@@ -140,7 +140,7 @@ font-style: normal;
 font-weight: 800;
 font-size: 18px;
 }
-.web-name1{
+.body-web-name1{
     width: 71px;
     height: 21px;
     
@@ -151,9 +151,10 @@ font-size: 18px;
     line-height: 21px;
       
     color: #2E2F42;
-  
+    letter-spacing: 0.03em;
+    text-transform: uppercase
 }
-.information{
+.body-information{
   font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
@@ -162,16 +163,16 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.information:hover,
-.information:focus
+.body-information:hover,
+.body-information:focus
 {
     color: #404bbf ;
 }
-.body-mail-connection{ 
+.body-connection{ 
     color:var(--accent-color);
 }
-.mail-connection:hover,
-.mail-connection:focus
+.body-mail-connection:hover,
+.body-mail-connection:focus
 {
     color: #404bbf;
 }
