@@ -67,10 +67,6 @@ color: #434455;
 .nav-link:focus{
     color: #404bbf;
 }
-
-/* .mail{
-    color: var(--accent-color);
-} */
 .mail{
     font-family: 'Roboto';sans-serif;
     font-style: normal;
@@ -225,12 +221,13 @@ color: #ffffff ;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.button:focus{
-    background-color: #404BBF;
-}
+/* .button:focus,
 .button:hover{
     background-color: #404BBF;
-}
+} */
+/* .button:hover{
+    background-color: #404BBF;
+} */
 .achivement{
 
 font-family: 'Roboto',sans-serif;
