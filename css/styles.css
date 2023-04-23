@@ -80,10 +80,10 @@ color: #434455;
       letter-spacing: 0.02em;
         color: #434455;  
 }
-.list-information:hover,
+/* .list-information:hover,
 .list-information:focus{
     color: #404bbf;
-}
+} */
 .btn{
     font-family: "Roboto", sans-serif;
        font-style: normal;
