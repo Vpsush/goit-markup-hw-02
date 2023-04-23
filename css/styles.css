@@ -184,20 +184,22 @@ text-transform: uppercase
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.body-mail-connection{
+/*  */
+ .mail-index{
     font-family: 'Roboto',sans-serif;
-font-style: normal;
+ font-style: normal; 
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-letter-spacing: 0.02em;
+letter-spacing: 0.02em; 
 color: #434455;
 }
-.body-mail-connection:hover,
+
+/* .body-mail-connection:hover,
 .body-mail-connection:focus{
     color: #404bbf;
     
-} */
+} */ */
 /* .body-mail-connection{ 
     font-style: normal;
     line-height: 1.5;
