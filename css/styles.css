@@ -71,6 +71,15 @@ color: #434455;
 .mail{
     color: var(--accent-color);
 }
+.list-information{
+    font-family: 'Roboto';sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+      letter-spacing: 0.02em;
+        color: #434455;  
+}
 .list-information:hover,
 .list-information:focus{
     color: #404bbf;
