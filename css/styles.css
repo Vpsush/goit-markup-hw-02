@@ -220,8 +220,8 @@ color: #ffffff ;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.button:focus,
-.button:hover{
+.button:hover,
+.button:focus{
     background-color: #404BBF;
 }
 /* .button:hover{
