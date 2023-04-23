@@ -68,22 +68,22 @@ color: #434455;
     color: #404bbf;
 }
 
-.mail{
+/* .mail{
     color: var(--accent-color);
-}
-.list-information{
+} */
+.mail{
     font-family: 'Roboto';sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
       letter-spacing: 0.02em;
-        color: #434455;  
+      color: var(--accent-color);
 }
-/* .list-information:hover,
-.list-information:focus{
+.mail:hover,
+.mail:focus{
     color: #404bbf;
-} */
+}
 .btn{
     font-family: "Roboto", sans-serif;
        font-style: normal;
