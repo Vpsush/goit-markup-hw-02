@@ -8,12 +8,13 @@
 }
 body{
     font-family: "Roboto",sans-serif;
+    color:var(--accent-color);
 }
-.boddy{
+/* .boddy{
     font-family: "Roboto", sans-serif;
     /* color:var(--accent-color); */
   
-}
+} */
 .list{
     list-style: none;
 }
