@@ -55,11 +55,11 @@ body{
     color:var(--web-name-color)
 }
 .connection{
-    font-family: 'Roboto',sans-serif;
-font-style: normal;
+    /* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
