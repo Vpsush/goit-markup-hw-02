@@ -72,8 +72,17 @@ color: #434455;
       letter-spacing: 0.02em;
       color: var(--accent-color);
 }
-.mail:hover,
-.mail:focus{
+.mail-index{
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em; 
+    color: #434455;
+    
+    }
+.mail, .mail-index:hover,
+.mail, .mail-index:focus{
     color: #404bbf;
     
 }
@@ -173,7 +182,7 @@ text-transform: uppercase
     /* color: #434455; */
 }
  
- .mail-index{
+ /* .mail-index{
 
 font-weight: 400;
 font-size: 16px;
@@ -181,13 +190,13 @@ line-height: 1.5;
 letter-spacing: 0.02em; 
 color: #434455;
 
-}
+} */
 
-.mail-index:hover, 
+/* .mail-index:hover, 
 .mail-index:focus{
     color: #404bbf;
     
-} 
+}  */
 
 .main-section{ 
     /* color: #2e2f42; */
