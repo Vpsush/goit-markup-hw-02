@@ -10,6 +10,7 @@ body{
     font-family: "Roboto",sans-serif;
     color:var(--accent-color);
     background-color:#FFFFFF;
+    font-style: normal;
 }
 /* .body{
     background-color:#FFFFFF;
@@ -125,7 +126,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .conclution{
-font-family: 'Roboto',sans-serif;
+/* font-family: 'Roboto',sans-serif; */
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -146,8 +147,9 @@ color: #F4F4FD;
 /* index */
 
 
-.body-logo { width: 71px;
-height: 21px;
+.body-logo { 
+    /* width: 71px;
+height: 21px; */
 
 font-family: "Raleway", sans-serif;
 line-height: 1.17;
@@ -159,8 +161,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase
 }
 .body-web-name{
-    width: 71px;
-    height: 21px;
+    /* width: 71px;
+    height: 21px; */
     
     font-family: 'Raleway',sans-serif;
     font-style: normal;
@@ -197,8 +199,8 @@ text-transform: uppercase
     color: #404bbf ;
 } */
 .index-connection{
-    font-family: 'Roboto',sans-serif;
-    font-style: normal;
+    /* font-family: 'Roboto',sans-serif; */
+    /* font-style: normal; */
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -207,8 +209,8 @@ text-transform: uppercase
 }
  
  .mail-index{
-    font-family: 'Roboto',sans-serif;
- font-style: normal; 
+    /* font-family: 'Roboto',sans-serif; */
+ /* font-style: normal;  */
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -229,8 +231,8 @@ background-color: #2e2f42;
 }
 .main-title{
   
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif; */
+/* font-style: normal; */
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07 ;
@@ -239,8 +241,8 @@ letter-spacing: 0.02em;
 color: #ffffff ;
 }
 .button{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
@@ -260,8 +262,8 @@ cursor: pointer;
 } */
 .achivement{
 
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -272,8 +274,8 @@ color: #434455;
 }
 .features{
   
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -287,8 +289,8 @@ color: #2E2F42;
 
 }
 .descuption{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -297,8 +299,8 @@ color: #434455;
 
 }
 .products{
-font-family: 'Roboto';
-font-style: normal;
+/* font-family: 'Roboto';
+font-style: normal; */
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
@@ -328,8 +330,8 @@ top: 1548px;
 background: #F4F4FD; 
 }
 .whom{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -340,8 +342,8 @@ color: #2E2F42;
 
 }
 .position{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -359,8 +361,8 @@ color: #434455;
     color: #f4f4fd ;
 }
 .conclusion{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
+/* font-family: 'Roboto',sans-serif;
+font-style: normal; */
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
