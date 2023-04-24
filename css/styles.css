@@ -8,18 +8,19 @@
 }
 body{
     font-family: "Roboto",sans-serif;
-    /* color:var(--accent-color); */
+    color:var(--accent-color);
+    background-color:#FFFFFF;
 }
-.body{
+/* .body{
     background-color:#FFFFFF;
     color: #434455;
     font-family:"Roboto", sans-serif;
-}
-.boddy{
+} */
+/* .boddy{
     /* font-family: "Roboto", sans-serif; */
     color:var(--accent-color);
   
-}
+} */
 .list{
     list-style: none;
 }
