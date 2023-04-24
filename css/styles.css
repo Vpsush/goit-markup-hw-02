@@ -130,29 +130,22 @@ color: #F4F4FD;
 
 
 .body-logo { 
-    /* width: 71px;
-height: 21px; */
-
 font-family: "Raleway", sans-serif;
-line-height: 1.17;
 color:#4d5ae5;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase
 }
 .body-web-name{
-    /* width: 71px;
-    height: 21px; */
-    
     font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
-      
-    color: #2E2F42;
+    line-height: 1.17x;
+ color: #2E2F42;
    
 }
 .body-nav-link{
@@ -167,35 +160,22 @@ text-transform: uppercase
 .body-nav-link:focus{
     color: #404bbf;
 }
-/* .body-information{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-    text-decoration: none;
-}
-.body-information:hover,
-.body-information:focus
-{
-    color: #404bbf ;
-} */
+
 .index-connection{
-    /* font-family: 'Roboto',sans-serif; */
+  
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     /* color: #434455; */
 }
  
  .mail-index{
-    /* font-family: 'Roboto',sans-serif; */
- /* font-style: normal;  */
+
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em; 
 color: #434455;
 
@@ -212,9 +192,6 @@ color: #434455;
 background-color: #2e2f42;
 }
 .main-title{
-  
-/* font-family: 'Roboto',sans-serif; */
-/* font-style: normal; */
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07 ;
@@ -227,7 +204,7 @@ font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.04em;
 color: #FFFFFF ;
@@ -236,19 +213,15 @@ cursor: pointer;
 }
 .button:hover,
 .button:focus{
-    /* color: #FFFFFF; */
-    background-color: #404BBF;
+     background-color: #404BBF;
 }
-/* .button:hover{
-    background-color: #404BBF;
-} */
+
 .achivement{
 
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
+
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 
 color: #434455;
