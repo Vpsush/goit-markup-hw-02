@@ -20,7 +20,7 @@
 }
 .boddy{
     font-family: "Roboto", sans-serif;
-    color:var(--accent-color);
+    /* color:var(--accent-color); */
     color: #434455;
 }
  .logo { 
