@@ -1,28 +1,29 @@
 /* скидання установок браузера */
+
+:root{
+--accent-color:#434455;
+--web-name-color:#2e2f42;
+--hover-back-graund: #404BBF;
+--logo-footer-portfolio: #4d5ae5 ;
+}
+body{
+    font-family: "Roboto",sans-serif;
+}
+.boddy{
+    font-family: "Roboto", sans-serif;
+    /* color:var(--accent-color); */
+  
+}
 .list{
     list-style: none;
 }
 .link{
     text-decoration: none;
 }
-:root{
---accent-color:#434455;
---web-name-color:#2e2f42;
---hover-back-graund:background-color: #404BBF;
---logo-footer-portfolio: #4d5ae5 ;
-}
-
 
 
 /* portfolio */
-*body{
-    font-family: "Roboto",sans-serif;
-}
-.boddy{
-    font-family: "Roboto", sans-serif;
-    /* color:var(--accent-color); */
-    color: #434455;
-}
+
  .logo { 
     width: 44px;
     height: 21px;
