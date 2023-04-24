@@ -92,7 +92,7 @@ color: #434455;
     
 }
 .btn{
-    /* font-family: "Roboto", sans-serif; */
+    font-family: "Roboto", sans-serif;
        font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -241,8 +241,8 @@ letter-spacing: 0.02em;
 color: #ffffff ;
 }
 .button{
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
+font-family: 'Roboto',sans-serif;
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
