@@ -180,9 +180,13 @@ text-transform: uppercase
     color: #404bbf ;
 } */
 .index-connection{
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
-    line-height: 1.5;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
     letter-spacing: 0.02em;
+    color: #434455;
 }
  
  .mail-index{
@@ -193,7 +197,7 @@ font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em; 
 color: #434455;
-background-color:#F4F4FD;
+
 }
 
 .mail-index:hover, 
