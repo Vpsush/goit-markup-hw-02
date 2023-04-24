@@ -228,47 +228,31 @@ color: #434455;
 
 }
 .features{
-  
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
+
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;
-/* identical to box height, or 120% */
-
+line-height: 1.5;
 letter-spacing: 0.02em;
-
-/* NAVY BLUE */
-
 color: #2E2F42;
 
 }
 .descuption{
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 
 }
 .products{
-/* font-family: 'Roboto';
-font-style: normal; */
+
 font-weight: 700;
 font-size: 36px;
-line-height: 40px;
-/* identical to box height, or 111% */
-
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-
-/* NAVY BLUE */
-
 color: #2E2F42;
-line-height: 1.11
 }
 .photo{
     background-color: #FFFFFF ;
@@ -279,34 +263,23 @@ width: 1440px;
 height: 732px;
 left: 0px;
 top: 1548px;
-
-/* CLOUD */
-
 background: #F4F4FD; 
 }
 .whom{
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;
-
+line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
 .position{
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
-
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
-
-
 color: #434455;
 }
 .footer{
@@ -316,11 +289,9 @@ color: #434455;
     color: #f4f4fd ;
 }
 .conclusion{
-/* font-family: 'Roboto',sans-serif;
-font-style: normal; */
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 }
