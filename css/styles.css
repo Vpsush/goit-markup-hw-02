@@ -18,9 +18,9 @@ body{
 } */
 /* .boddy{
     /* font-family: "Roboto", sans-serif; */
-    color:var(--accent-color);
+    /* color:var(--accent-color); */
   
-} */
+/* } */ 
 .list{
     list-style: none;
 }
@@ -32,12 +32,12 @@ body{
 /* portfolio */
 
  .logo { 
-    width: 44px;
+    /* width: 44px;
     height: 21px;
     
     font-family: 'Raleway',sans-serif;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 800; */
     font-size: 18px;
     line-height: 21px;
     line-height: 1.17;
