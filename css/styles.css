@@ -6,13 +6,7 @@
 --hover-back-graund: #404BBF;
 --logo-footer-portfolio: #4d5ae5 ;
 }
-body{
-    font-family: "Roboto",sans-serif;
-    color:var(--accent-color);
-    background-color:#FFFFFF;
-    font-style: normal;
-    /* font-style: normal; */
-}
+
 
 .list{
     list-style: none;
@@ -20,7 +14,13 @@ body{
 .link{
     text-decoration: none;
 }
-
+body{
+    font-family: "Roboto",sans-serif;
+    color:var(--accent-color);
+    background-color:#FFFFFF;
+    font-style: normal;
+    /* font-style: normal; */
+}
 
 /* portfolio */
 
