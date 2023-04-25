@@ -6,14 +6,6 @@
 --hover-back-graund: #404BBF;
 --logo-footer-portfolio: #4d5ae5 ;
 }
-
-
-.list{
-    list-style: none;
-}
-.link{
-    text-decoration: none;
-}
 body{
     font-family: "Roboto",sans-serif;
     color:var(--accent-color);
@@ -21,6 +13,19 @@ body{
     font-style: normal;
     /* font-style: normal; */
 }
+button{
+    cursor: pointer;
+}
+address{
+ font-style: normal;   
+}
+.list{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
+
 
 /* portfolio */
 
@@ -45,7 +50,7 @@ body{
     color:var(--web-name-color)
 }
 .connection{
-font-style: normal;
+/* font-style: normal; */
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -93,7 +98,7 @@ color: #434455;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    cursor: pointer;
+    /* cursor: pointer; */
     letter-spacing: 0.04em;
     color: #4d5ae5;
     background-color:#F4F4FD;
@@ -175,7 +180,7 @@ text-transform: uppercase
 
 .index-connection{
   
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -217,7 +222,7 @@ font-family: 'Roboto',sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-cursor: pointer;
+/* cursor: pointer; */
 /* text-align: center; */
 letter-spacing: 0.04em;
 color: #FFFFFF ;
